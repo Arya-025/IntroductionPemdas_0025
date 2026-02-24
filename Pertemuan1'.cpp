@@ -7,5 +7,5 @@ int main()
     umur = 20;
     cout << "udin" << endl;
     cout << "20" << endl;
-    cout << umur << endl;
+    cout << umur << endl ;
 }
