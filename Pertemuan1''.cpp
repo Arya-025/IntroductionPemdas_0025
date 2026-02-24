@@ -16,5 +16,5 @@ int main()
     cout << "Yogyakarta\n";
 
     nama = "udin";
-    cout << "Nama saya : " << nama;
+    cout << "Nama saya : " << nama ;
 }
